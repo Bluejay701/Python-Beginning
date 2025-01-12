@@ -1,3 +1,4 @@
+#Project in Intermediate Lesson 6 slides
 import turtle
 import random
 
@@ -19,7 +20,6 @@ def square(x):
   for i in range(4):
     x.forward(len)
     x.left(90)
-
 
 while True:
   for t in turtles:
