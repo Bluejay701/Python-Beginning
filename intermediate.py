@@ -1,4 +1,4 @@
-#Final Project:
+#Jackson Pollock:
 
 import turtle
 import random
