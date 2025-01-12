@@ -6,7 +6,6 @@ colors = ["navy", "yellow", "green", "blue", "orange", "violet"]
 shapes = ["square", "arrow", "classic", "circle", "triangle", "turtle"]
 
 t = turtle.Turtle()
-#turtle.screensize(canvwidth=400, canvheight=400)
 screen = turtle.Screen()
 
 def change_color():
@@ -68,5 +67,3 @@ while True:
         draw_triangle()
     elif s == 5:
         draw_star()
-
-    turtle.mainloop()
